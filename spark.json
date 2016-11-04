@@ -1,0 +1,7 @@
+{
+  "name": "arduino_vec",
+  "author": "Levi Schuck <me@levischuck.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Simple vector structure like GLSL shaders"
+}
