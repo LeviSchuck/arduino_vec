@@ -125,6 +125,7 @@ public:
     r.y = y * (1 - f) + o.y * f;
     r.z = z * (1 - f) + o.z * f;
     r.w = w * (1 - f) + o.w * f;
+    return r;
   }
   Vec4(const Vec4 & o) {
     x = o.x;
